@@ -1,6 +1,6 @@
 # Network3-ubuntu-kurulum
 oncelikle dosyayi sunucumuza indiriyoruz 
----console
+```console
 wget https://network3.io/ubuntu-node-v1.1.tar
 ---
 dosyayi cikaralim 
