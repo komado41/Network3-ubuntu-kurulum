@@ -16,8 +16,10 @@ nodu baslatalim
 sudo bash manager.sh up
 ```
 node is ready mesajini gorduk mu tamamdir
-simdi panelden kontrol edelim puanimizi tarayimiza asagidaki kodu duzenleyip yapistiralim
+simdi panelden kontrol edelim puanimizi tarayicimiza asagidaki linki duzenleyip yapistiralim
+```console
 https://account.network3.ai/main?o=sunucu-ip:8080
+```
 E-postanızı bağlamak isterseniz, önce e-postanızla panele  giriş yapın. Sonra kontrol panelinde current node yazan yerde  '+' düğmesine tıklayın. Açılan  kutuya nodun özel anahtarını girebilirsiniz. Nodu bağlamak için özel anahtarı şu komutla alabilirsiniz
 ```console
 sudo bash manager.sh key
